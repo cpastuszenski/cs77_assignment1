@@ -26,7 +26,7 @@ ABOUT:
 			Triangles
 			Quads
 			Cylinders
-			Capped Cylinders (EXTRA CREDIT)
+			Capped Cylinders
 		Materials
 			Lambertian
 			Blinn with mirror reflections
